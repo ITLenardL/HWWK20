@@ -1,0 +1,35 @@
+
+.navApp {
+  background-color: rgba(0, 0, 0, 0.877);
+  color: white;
+  font-size: 20px;
+  border-bottom: 7px rgb(82, 59, 184);
+}
+
+#name {
+  font-size: 25px;
+}
+
+.container {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.card-header {
+  border-top: 5px solid rgb(82, 59, 184);
+  border-left: 5px solid rgb(82, 59, 184);
+  border-right: 5px solid rgb(82, 59, 184);
+}
+
+.card-body {
+  border-left: 5px solid rgb(82, 59, 184);
+  border-bottom: 5px solid rgb(82, 59, 184);
+  border-right: 5px solid rgb(82, 59, 184);
+}
+
+.aboutApp, .portfolioApp, .contactApp, html {
+  background-color: rgba(0, 0, 0, 0.877);
+  background-image: url("https://images.pexels.com/photos/3872166/pexels-photo-3872166.jpeg?cs=srgb&dl=pexels-markus-spiske-3872166.jpg&fm=jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

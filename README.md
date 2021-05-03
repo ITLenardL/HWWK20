@@ -30,4 +30,4 @@ Github username: [ITLenardL](https://github.com/ITLenardL)
 
 ## Screenshots
 
-![Portfolio screenshot](https://imgur.com/Oc3Dj2l)
+![Portfolio screenshot](https://i.imgur.com/Oc3Dj2l.png)
